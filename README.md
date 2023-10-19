@@ -16,7 +16,7 @@ Therefore, we decided to reduce the number of the DSs. For example, full Compren
 ![image](https://github.com/compreno-semantics/semantic-slots/assets/125276344/03d2ae8b-7493-41eb-b561-7c423f786935)
 
 
-Or, full model contains several Instrument slots, which differ by the SCs each slot can include - in the simplified variant, they are joined in one Instrument slot:
+Or, full model contains several Instrument slots, which differ by the semantic classes each slot can include - in the simplified variant, they are joined in one Instrument slot:
 
 ![image](https://github.com/compreno-semantics/semantic-slots/assets/125276344/376ef006-895a-4a52-ac77-4fa80438f3d2)
 
