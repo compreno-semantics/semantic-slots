@@ -8,7 +8,8 @@ Experiencer, Addressee, etc.), adjuncts (Locative, Distance, Time, Condition, Co
 characteristics (for instance, evaluation, speed, price, form, or size), specifications, and others. It allows
 one to annotate all semantic links of each word,
 both actant and circumstantial.
-However, the model suggests a very detailed description as it contains more than 330 SSs, which, in turn, does not seem necessary for most application tasks.
+
+However, the model suggests a very detailed description as it contains more than 330 DSs, which, in turn, does not seem necessary for most application tasks.
 
 Therefore, we decided to reduce the number of the DSs. For example, full Compreno markup suggests different roles for different characteristic dependencies, such as form, taste, sound, appearance, importance, genuineness, and so on - more than 50 characteristics in total. In the generalized variant, all such characteristics correspond to one characteristical slot:
 
