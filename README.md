@@ -11,7 +11,7 @@ both actant and circumstantial.
 
 However, the model suggests a very detailed description as it contains more than 330 DSs, which, in turn, does not seem necessary for most application tasks.
 
-Therefore, we decided to reduce the number of the DSs. For example, full Compreno markup suggests different roles for different characteristic dependencies, such as form, taste, sound, appearance, importance, genuineness, and so on - more than 50 characteristics in total. In the generalized variant, all such characteristics correspond to one characteristical slot:
+Therefore, we decided to reduce the number of the DSs. For example, full Compreno markup suggests different roles for different characteristic dependencies, such as form, taste, sound, appearance, importance, genuineness, and so on - more than 50 characteristics in total. In the generalized variant, all such characteristics correspond to one characteristical slot:
 
 ![image](https://github.com/compreno-semantics/semantic-slots/assets/125276344/03d2ae8b-7493-41eb-b561-7c423f786935)
 
